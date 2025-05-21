@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Moorerm3/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Moorerm3/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Moorerm3/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
